@@ -23,7 +23,7 @@ Conformément à l’article 17 du RGPD, je vous demande également, **après vo
 Dans l’attente de cette réponse à ma demande d’accès article 15 pour pouvoir mettre en œuvre ma demande de suppression article 17, je vous demande de mettre immédiatement en œuvre mon droit à la limitation de traitement prévu à l’article 18 du RGPD et de suspendre immédiatement toute usage, pour quelque finalité que ce soit, de l’ensemble des données à caractère personnel me concernant.
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2746-1-1
 
-Je vous saurai gré, enfin, de faire procéder à cette suppression auprès de **TOUT AUTRE** prestataire auquel mes données à caractère personnelles auraient été communiquées et de me fournir les documents attestant de ces suppressions, tel que le prévoit l’article 19 du RGPD.
+Je vous saurai gré, enfin, de faire procéder à cette suppression auprès de **TOUT AUTRE** prestataire auquel mes données à caractère personnel auraient été communiquées et de me fournir les documents attestant de ces suppressions, tel que le prévoit l’article 19 du RGPD.
 	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679#d1e2792-1-1
 
 
